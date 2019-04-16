@@ -5,7 +5,7 @@
 Once someone opens the app, an empty board of tictactoe will show up.
 It's a basic game where two players take turns pressing buttons in a 3x3 grid to mark "X" or "O" characters. If a player can place three of their letter in a row horizontally, vertically or diagonally, that player wins the game. 
 
-# the game
+### the game
 First of all the grid was made with a GridLayout. The constructor is made when creating a new game. All the buttons are empty. Once the game starts, it's player ones turn (checked by a boolean). 
 After this we'll use the tileClicked method, where every button was identified by it's id and location on the grid (X,Y).
 
@@ -26,7 +26,7 @@ Depending on which user is pressing the button, the switch function makes sure i
 The app also includes a NewGame button, which makes sure a user can start a new game at any moment.
 Once the button is pressed, the game starts over for every button and the UI will be updated (empty buttons again). 
 
-# winning
+### winning
 To check if someone is winning, the won method was implemented. It checks if a player has won horizontally, vertically or diagonally. If so, it returns a gamestate with which player has won. After that the app will popup a text saying: "Congratulations! Player one has won." or "Congratulations! Player two has won."
 When someone has won the game, the players automatically can't make any moves any more because the game is over. This is checked by a boolean if gameover = true or false.
 
