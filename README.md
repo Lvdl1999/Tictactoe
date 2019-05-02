@@ -47,7 +47,7 @@ So to show you how this app does work, here is an example with screenshots:
 <img width="180" alt="Schermafbeelding 2019-05-02 om 12 19 53" src="https://user-images.githubusercontent.com/47352487/57069332-9c244500-6cd4-11e9-90ac-0907c31c6e76.png">
 
 4. turn the phone to landscape and remember current game
-<img width="549" alt="Schermafbeelding 2019-05-02 om 12 16 41" src="https://user-images.githubusercontent.com/47352487/57069290-78f99580-6cd4-11e9-9e1e-e2909972e52c.png">
+<img width="200" alt="Schermafbeelding 2019-05-02 om 12 16 41" src="https://user-images.githubusercontent.com/47352487/57069290-78f99580-6cd4-11e9-9e1e-e2909972e52c.png">
 
 
 
