@@ -35,14 +35,19 @@ Because this is an Android app, the layout may be reloaded when leaving the app.
 So to show you how this app does work, here is an example with screenshots:
 
 1. open the app
+<img width="180" alt="Schermafbeelding 2019-05-02 om 12 15 46" src="https://user-images.githubusercontent.com/47352487/57069227-4c457e00-6cd4-11e9-9480-fdeaeb89d2ad.png">
 
 2. play the game
+<img width="180" alt="Schermafbeelding 2019-05-02 om 12 18 13" src="https://user-images.githubusercontent.com/47352487/57069261-61221180-6cd4-11e9-9eba-30c5f13c2894.png">
 
 3. start new game
+<img width="180" alt="Schermafbeelding 2019-05-02 om 12 19 18" src="https://user-images.githubusercontent.com/47352487/57069310-87e04800-6cd4-11e9-9011-e573884f806a.png">
 
 3. win the game with player one
+<img width="180" alt="Schermafbeelding 2019-05-02 om 12 19 53" src="https://user-images.githubusercontent.com/47352487/57069332-9c244500-6cd4-11e9-90ac-0907c31c6e76.png">
 
 4. turn the phone to landscape and remember current game
+<img width="549" alt="Schermafbeelding 2019-05-02 om 12 16 41" src="https://user-images.githubusercontent.com/47352487/57069290-78f99580-6cd4-11e9-9e1e-e2909972e52c.png">
 
 
 
